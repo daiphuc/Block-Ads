@@ -5,3 +5,4 @@
 *###vl-header-adx
 xnhau.*##.sponsor
 xnhau.*##.spot
+nettruyen.*##.banner-container, .show-sps
