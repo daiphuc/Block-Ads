@@ -6,3 +6,11 @@
 xnhau.*##.sponsor
 xnhau.*##.spot
 nettruyen.*##.banner-container, .show-sps
+##.samCodeUnit
+##.samVideoOverlay
+###preload
+###castfish
+###vl-header-adx
+xnhau.*##.sponsor
+xnhau.*##.spot
+nettruyen.*##.banner-container, .show-sps
