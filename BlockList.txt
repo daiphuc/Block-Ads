@@ -14,3 +14,5 @@ nettruyen.*##.banner-container, .show-sps
 xnhau.*##.sponsor
 xnhau.*##.spot
 nettruyen.*##.banner-container, .show-sps
+vl69.*###page > div:nth-child(2)
+vl69.*##html > div:nth-child(6)
